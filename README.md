@@ -1,2 +1,2 @@
-# No Code - Low Code - Pro Code 
-No Code & Low Code, uygulama geliştirme süreçlerinde kod yazmadan, teknik bilgi gerektirmeden geliştirme işlemlerinin yapılmasını sağlayan teknoloji ve platformları tanımlamaktadır. 
+# NO CODE & LOW CODE & PRO CODE  
+No Code & Low Code, uygulama geliştirme süreçlerinde kod yazmadan, teknik bilgi gerektirmeden geliştirme işlemlerinin yapılmasını sağlayan teknoloji ve platformları tanımlamaktadır. Pro Code ise profesyonel uygulama geliştiricilerinin kodlama, test etme, optimizasyon ve dağıtım gibi işlemleri ve geliştirme süreçlerine tümüyle hâkim olduğu standart yazılım geliştirme süreçlerini ifade etmektedir. 
