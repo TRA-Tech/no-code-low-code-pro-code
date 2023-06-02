@@ -106,6 +106,26 @@ Low Code ve No Code yaklaşımlarında Gölge IT her zaman dikkat edilmesi gerek
 
 *No Code*; Low Code yaklaşımına göre daha az genişletilebilirlik, farklı platformlarla entegrasyon konusunda sınırlı potansiyele sahiptir. 
 
+## PRO CODE 
+Pro Code ise profesyonel uygulama geliştiricilerinin kodlama, test etme, optimizasyon ve dağıtım gibi işlemleri ve geliştirme süreçlerine tümüyle hâkim olduğu standart yazılım geliştirme süreçlerini ifade etmektedir. 
+Pro Code yaklaşımında geliştiriciler; Java, JavaScript, Python veya C++ gibi popüler programlama dillerini ve kütüphaneleri kullanarak uygulamaları ve uygulama bileşenlerini sıfırdan oluşturur. Programları dilleriyle yazılan Pro Code, prototip ve üretim sistemleri oluşturmayı mümkün kılar. 
+
+Pro Code ile geliştirilen uygulamaların, yeni ve mevcut sistem bağlantılarını yeni farklı bir uygulamaya entegre edilebilir. Uygulamaları organizasyon mimarisine uygun olarak özelleştirme imkânı sağlar. Bu tarz çalışmalar, IT teknoloji personeli tarafından yapılandırıldığı için uygulama geliştirme ekipleri uygulamanın yapısını tam anlamıyla kavrayabilir ve hataları kolayca giderebilirler.
+
+### Pro Code Avantajları
+- Karmaşık yapıdaki ve özelleştirilebilir uygulamaları daha kolay ve pratik bir şekilde oluşturmak
+- Kaynak koduna daha iyi erişim sağlamak ve hataları kolayca düzeltmek
+- Performans, güvenlik ve ölçeklenebilirlik açısından daha fazla kontrol sahibi olmak
+- Daha kaliteli çıktılar almak
+- Yeni geliştirmeler ve düzenlemeler oluşturmada gereken süreyi daha kolay tahmin etmek gibi birçok avantajı bulunmaktadır. 
+ 
+ ###  Pro Code Dezavantajları 
+- Uygulama geliştirme sürecinin uzun olması 
+- Uzman ve deneyimli kişiler nedeniyle maliyetli bir geliştirme süreci olması 
+- Kaynakların çoklu görev yapmasının zor olma ihtimali 
+- Önceden oluşturulmuş ürünler kullanılamaması gibi dezavantajları bulunmaktadır. 
+
+
 ### No Code Platformları
 
 -	[Airtable](https://www.airtable.com/)
