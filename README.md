@@ -110,6 +110,8 @@ Low Code ve No Code yaklaşımlarında Gölge IT her zaman dikkat edilmesi gerek
 Pro Code ise profesyonel uygulama geliştiricilerinin kodlama, test etme, optimizasyon ve dağıtım gibi işlemleri ve geliştirme süreçlerine tümüyle hâkim olduğu standart yazılım geliştirme süreçlerini ifade etmektedir. 
 Pro Code yaklaşımında geliştiriciler; Java, JavaScript, Python veya C++ gibi popüler programlama dillerini ve kütüphaneleri kullanarak uygulamaları ve uygulama bileşenlerini sıfırdan oluşturur. Programları dilleriyle yazılan Pro Code, prototip ve üretim sistemleri oluşturmayı mümkün kılar. 
 
+![nocode](https://lh5.googleusercontent.com/izq4GfL7EgM_Gfo1yeCdjscWlA4y6-UisMUmJlgQ7PtCbOKakjERUaqG4RWCYshvFqIisfRfN71f4equf7aJhUGCnUmoOhI_6y-lcti_w4qb0M8DGYBwaFkFZQV049d0yBWE644)
+
 Pro Code ile geliştirilen uygulamaların, yeni ve mevcut sistem bağlantılarını yeni farklı bir uygulamaya entegre edilebilir. Uygulamaları organizasyon mimarisine uygun olarak özelleştirme imkânı sağlar. Bu tarz çalışmalar, IT teknoloji personeli tarafından yapılandırıldığı için uygulama geliştirme ekipleri uygulamanın yapısını tam anlamıyla kavrayabilir ve hataları kolayca giderebilirler.
 
 ### Pro Code Avantajları
@@ -125,6 +127,9 @@ Pro Code ile geliştirilen uygulamaların, yeni ve mevcut sistem bağlantıları
 - Kaynakların çoklu görev yapmasının zor olma ihtimali 
 - Önceden oluşturulmuş ürünler kullanılamaması gibi dezavantajları bulunmaktadır. 
 
+## İşletmeler No Code & Low Code & Pro Code Platformlarını Neden Tercih Etmektedir?
+*No Code & Low Code & Pro Code* platformlarının ortaya çıkışı ve büyümesinde etkili olan en önemli faktör, dijital uygulamalara olan yüksek taleptir. Teknoloji dünyasının gelişimi ve değişimiyle birlikte, dijital alanlarda da talepler yükselmiş durumdadır. Bu tür yeni geliştirilen uygulamalar, şirketlerin dijital dönüşüm süreçlerinde bir köprü görevi görerek girişimlerini destekleyen yapılarıdır. 
+Şirketlerin bu tarz platformları tercih ederek, bu platformlar üzerinden uygulama geliştirmek istemelerinin başlıca sebebi; geliştiricilere daha çok karmaşık proje yapılarında ihtiyaç duyulması, istenilen yetkinlik ve beceride geliştiricilerin bulunmasının zor olması, maliyetli süreç olması, standart programlama sürecinin öğrenilmesi için zaman ve eğitim gerektirmesi. 
 
 ### No Code Platformları
 
